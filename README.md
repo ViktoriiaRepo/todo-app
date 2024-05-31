@@ -49,3 +49,39 @@ If errors occur during the addition, deletion, or updating of tasks, the app wil
 ## Backend
 
 This app uses a custom backend for storing and managing task data. More information about the backend can be found in the corresponding repository: [Backend Repository](https://github.com/ViktoriiaRepo/node-server-todo)
+
+## Installation and Running
+
+To run this project locally, follow these steps:
+
+- Clone the repository:
+
+  ```bash
+  git clone https://github.com/ViktoriiaRepo/todo-app.git
+  ```
+
+- Navigate to the project directory:
+
+  ```bash
+  cd todo-app
+  ```
+
+- Install dependencies:
+
+  ```bash
+  npm install
+  ```
+
+- Start the project:
+
+  ```bash
+  npm start
+  ```
+
+- Run the tests:
+
+  ```bash
+  npm test
+  ```
+
+  The app will be available at: `http://localhost:3000`
